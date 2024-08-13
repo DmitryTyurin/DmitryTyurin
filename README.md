@@ -10,11 +10,8 @@
 ##### 💾 Here will be presented my small projects on working with 🇧🇮🇬 🇩🇦🇹🇦. <br><br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DmitryTyurin&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=DmitryTyurin&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=DmitryTyurin&theme=dark&hide_border=true&border_radius=7.1&locale=ru&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
-
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DmitryTyurin&theme=apprentice)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DmitryTyurin&theme=apprentice)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DmitryTyurin&theme=apprentice)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=DmitryTyurin&theme=apprentice)
