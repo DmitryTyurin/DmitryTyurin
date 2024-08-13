@@ -11,6 +11,11 @@
 #### 🎯 My goal is to use my expertise and knowledge to create solutions in this field. 
 #### 💾 Here will be presented my small projects on working with 🇧🇮🇬 🇩🇦🇹🇦. <br><br><br>
 
+[![TELEGA](https://img.icons8.com/?size=100&id=63306&format=png&color=000000)](https://t.me/DmitryTyurin)
+[![VK](https://img.icons8.com/?size=100&id=oa4chNZ4S5fa&format=png&color=000000)](https://vk.com/dmitrityurin)
+<br>
+<br>
+
 <div align="center">
 
 ### Технологии 💻
