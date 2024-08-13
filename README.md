@@ -8,8 +8,10 @@
 ##### 🚩 I am a data engineering specialist and 📚 actively explore cutting-edge tools and methods for working with 🇧🇮🇬 🇩🇦🇹🇦. 
 ##### 🎯 My goal is to use my expertise and knowledge to create solutions in this field. 
 ##### 💾 Here will be presented my small projects on working with 🇧🇮🇬 🇩🇦🇹🇦. <br><br>
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=DmitryTyurin&theme=dark&background=000000)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DmitryTyurin&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=DmitryTyurin&theme=dark&background=000000)](https://git.io/streak-stats)
+
 
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DmitryTyurin&theme=apprentice)
