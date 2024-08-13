@@ -9,11 +9,11 @@
 #### 🎯 My goal is to use my expertise and knowledge to create solutions in this field. 
 #### 💾 Here will be presented my small projects on working with 🇧🇮🇬 🇩🇦🇹🇦. <br><br>
 
-<center>
+<div align="center">
 
 ### Технологии 💻
 
-</center>
+</div>
 
 ##### 🧰 Контроль версий
 <img height="50" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png"><img height="50" src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png"><img height="50" src="https://user-images.githubusercontent.com/25181517/192108376-c675d39b-90f6-4073-bde6-5a9291644657.png">
