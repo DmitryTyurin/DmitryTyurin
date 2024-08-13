@@ -5,10 +5,11 @@
 #### 🎯 Моя цель - использовать свой опыт и знания для создания решений в этой области. 
 #### 💾 Здесь будут представлены мои небольшие проекты по работе с данными. <br><br>
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%FFFFFF&lines=📖+CLICK+MY+PROJECT+📖)](https://github.com/DmitryTyurin/data-engineering-public)
+
 #### 🚩 I am a data engineering specialist and 📚 actively explore cutting-edge tools and methods for working with 🇧🇮🇬 🇩🇦🇹🇦. 
 #### 🎯 My goal is to use my expertise and knowledge to create solutions in this field. 
-#### 💾 Here will be presented my small projects on working with 🇧🇮🇬 🇩🇦🇹🇦. <br><br>
-<br>
+#### 💾 Here will be presented my small projects on working with 🇧🇮🇬 🇩🇦🇹🇦. <br><br><br>
 
 <div align="center">
 
