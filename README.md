@@ -1,9 +1,7 @@
-<div align="center">
-
-![DE](https://t3.ftcdn.net/jpg/03/45/31/28/360_F_345312834_y1esquNNNnxZumL9UwVTnzg7qpeb95Dx.jpg)
+<img src="https://t3.ftcdn.net/jpg/03/45/31/28/360_F_345312834_y1esquNNNnxZumL9UwVTnzg7qpeb95Dx.jpg" height="auto" width="200" class="centered-image" style="border-radius:50% 10% / 10% 40%;"></a>
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%FFFFFF&lines=Всем+привет👋+My+Data+Engineering🔋)](https://git.io/typing-svg)
 
-</div>
+
 
 
 #### 🚩 Я являюсь специалистом в области инженерии данных и 📚 активно изучаю передовые инструменты и методы для работы с большими данными 🇧🇮🇬 🇩🇦🇹🇦. 
