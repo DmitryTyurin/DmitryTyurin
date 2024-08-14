@@ -1,7 +1,7 @@
 <div align="center">
 
-<img src="https://t3.ftcdn.net/jpg/03/45/31/28/360_F_345312834_y1esquNNNnxZumL9UwVTnzg7qpeb95Dx.jpg" height="auto" style="border-radius: 0 500px; border: 5px #cfc solid; box-shadow: 0 0 10px #444;"></br>
-
+<img src="https://t3.ftcdn.net/jpg/03/45/31/28/360_F_345312834_y1esquNNNnxZumL9UwVTnzg7qpeb95Dx.jpg" height="auto"></br>
+  <a href="url"><img src="https://t3.ftcdn.net/jpg/03/45/31/28/360_F_345312834_y1esquNNNnxZumL9UwVTnzg7qpeb95Dx.jpg" height="auto" width="200" style="border-radius:50%"></a>
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%FFFFFF&lines=Всем+привет👋+My+Data+Engineering🔋)](https://git.io/typing-svg)
 
 </div>
