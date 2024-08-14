@@ -1,6 +1,5 @@
-<div align="center">
-<img src="https://t3.ftcdn.net/jpg/03/45/31/28/360_F_345312834_y1esquNNNnxZumL9UwVTnzg7qpeb95Dx.jpg" height="auto" width="350" class="centered-image" style="border-radius:20% 20% / 20% 10%;">
-</div>
+<img src="https://t3.ftcdn.net/jpg/03/45/31/28/360_F_345312834_y1esquNNNnxZumL9UwVTnzg7qpeb95Dx.jpg" height="auto" width="350" class="centered-image" style="border-radius:20% 20% / 20% 10%;"></br>
+
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%FFFFFF&lines=Всем+привет👋+My+Data+Engineering🔋)](https://git.io/typing-svg)
 <br>
