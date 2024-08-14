@@ -16,7 +16,7 @@
 #### 🎯 My goal is to use my expertise and knowledge to create solutions in this field. 
 #### 💾 Here will be presented my small projects on working with 🇧🇮🇬 🇩🇦🇹🇦. <br><br><br>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=DmitryTyurin&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 <div align="center">
 
@@ -46,10 +46,14 @@
 
 
 
+
+---
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=DmitryTyurin&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 ---
 
 
-  
 <p align="center">
   <img width="800" height="220" src="https://streak-stats.demolab.com?user=DmitryTyurin&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
 </p>
