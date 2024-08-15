@@ -46,8 +46,8 @@
 <img height="40" alt="pandas" src="https://github.com/marwin1991/profile-technology-icons/assets/76012086/24b02d77-2f28-43c7-b5d6-e15e3395851b"></a>
 
 #### 💾 Database
-<img height="50" alt="PostgreSQL" src="https://user-images.githubusercontent.com/25181517/117208740-bfb78400-adf5-11eb-97bb-09072b6bedfc.png"></a>
-<img height="40" alt="mongoDB" src="https://user-images.githubusercontent.com/25181517/182884177-d48a8579-2cd0-447a-b9a6-ffc7cb02560e.png"></a>
+<img height="50" alt="PostgreSQL" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/postgresql_src_logo_icon_170834.png"></a>
+<img height="40" alt="mongoDB" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_mongo_icon_130383.png"></a>
 <img height="40" alt="clickhouse" src="https://cdn.freelogovectors.net/wp-content/uploads/2022/03/clickhouse_logo_freelogovectors.net_.png"></a>
 
 
