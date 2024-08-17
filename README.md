@@ -1,7 +1,8 @@
 <div align="center">
 
-![DE](https://t3.ftcdn.net/jpg/03/45/31/28/360_F_345312834_y1esquNNNnxZumL9UwVTnzg7qpeb95Dx.jpg)
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%FFFFFF&lines=Всем+привет👋+My+Data+Engineering🔋)](https://git.io/typing-svg)
+<img height="100" src="https://t3.ftcdn.net/jpg/03/45/31/28/360_F_345312834_y1esquNNNnxZumL9UwVTnzg7qpeb95Dx.jpg"></a>
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%FFFFFF&lines=Всем+привет👋+My+Data+Engineering🔋)
 
 </div>
 
@@ -133,6 +134,6 @@
   <img src="https://komarev.com/ghpvc/?username=DmitryTyurin&style=for-the-badge&color=orange" alt=""/>
 </div>
 
-![github contribution grid snake animation](https://raw.githubusercontent.com/DmitryTyurin/DmitryTyurin/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/DmitryTyurin/DmitryTyurin/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+
 
 
