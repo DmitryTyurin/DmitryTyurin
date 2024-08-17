@@ -35,6 +35,7 @@
 
 </div>
 
+<div align="center">
 <table>
 
   <tr>
@@ -56,11 +57,7 @@
   </tr>
 
 </table>
-
-
-
-#### 💾 Database
-
+</div>
 
 #### 🔨 Tools
 <img height="40" alt="pycharm" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/pycharm/pycharm-original.svg"></a>
