@@ -1,6 +1,6 @@
 <div align="center">
 
-<img height="200" weight="1000" src="https://t3.ftcdn.net/jpg/03/45/31/28/360_F_345312834_y1esquNNNnxZumL9UwVTnzg7qpeb95Dx.jpg"></a>
+<img height="200" style="border-radius: 10px 5% / 20px 25em 30px 35em" src="https://t3.ftcdn.net/jpg/03/45/31/28/360_F_345312834_y1esquNNNnxZumL9UwVTnzg7qpeb95Dx.jpg"></a>
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%FFFFFF&lines=Всем+привет👋+My+Data+Engineering🔋)
 
