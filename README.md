@@ -55,6 +55,8 @@
 <img height="40" alt="pycharm" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/jupyter/jupyter-original.svg"></a>
 <img height="40" alt="airflow" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/apacheairflow/apacheairflow-original.svg"></a>
 <img height="40" alt="dbeaver" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/dbeaver/dbeaver-original.svg"></a>
+<img height="40" alt="superset" src="https://static.tildacdn.com/tild3331-6439-4530-a166-396530636539/Superset_logo.png"></a>
+<img height="40" alt="excel" src="https://cdn.icon-icons.com/icons2/2397/PNG/512/microsoft_office_excel_logo_icon_145720.png"></a>
 <img height="40" alt="jira" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/jira/jira-original.svg"></a>
 #### 🖥️ OS
 <img height="40" alt="windows" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/windows11/windows11-original.svg"></a>
