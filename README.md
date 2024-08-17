@@ -57,7 +57,15 @@
 <img height="40" alt="dbeaver" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/dbeaver/dbeaver-original.svg"></a>
 <img height="40" alt="superset" src="https://static.tildacdn.com/tild3331-6439-4530-a166-396530636539/Superset_logo.png"></a>
 <img height="40" alt="excel" src="https://cdn.icon-icons.com/icons2/2397/PNG/512/microsoft_office_excel_logo_icon_145720.png"></a>
+
+
+#### 💼 Messengers
 <img height="40" alt="jira" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/jira/jira-original.svg"></a>
+<img height="40" alt="confluence" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/confluence/confluence-original.svg"></a>
+<img height="40" alt="slack" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/slack/slack-original.svg"></a>
+<img height="40" alt="mattermost" src="https://cdn.icon-icons.com/icons2/2389/PNG/512/mattermost_logo_icon_145078.png"></a>
+
+
 #### 🖥️ OS
 <img height="40" alt="windows" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/windows11/windows11-original.svg"></a>
 <img height="40" alt="ubuntu" src="https://user-images.githubusercontent.com/25181517/186884153-99edc188-e4aa-4c84-91b0-e2df260ebc33.png"></a>
