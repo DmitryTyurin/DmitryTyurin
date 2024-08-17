@@ -35,7 +35,7 @@
 
 </div>
 
-<div align="center">
+
 <table>
 
   <tr>
@@ -80,7 +80,7 @@
     <td><img height="40" alt="mattermost" src="https://cdn.icon-icons.com/icons2/2389/PNG/512/mattermost_logo_icon_145078.png"></td>
   </tr>
 
-</table></div>
+</table>
 
 <div align="center">
 
