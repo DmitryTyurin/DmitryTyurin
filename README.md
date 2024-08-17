@@ -35,14 +35,13 @@
 
 </div>
 
-
+<div align="center">
 <table>
 
   <tr>
     <th colspan="3">🧰 Version Control</th>
     <th colspan="3">🐍 Python</th>
     <th colspan="3">💾 Database</th>
-    <th colspan="2">🖥️ OS</th>
 
   </tr>
   <tr>
@@ -55,8 +54,6 @@
     <td><img height="40" alt="PostgreSQL" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/postgresql/postgresql-original.svg"></td>
     <td><img height="40" alt="mongoDB" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/mongodb/mongodb-original.svg"></td>
     <td><img height="40" alt="clickhouse" src="https://cdn.freelogovectors.net/wp-content/uploads/2022/03/clickhouse_logo_freelogovectors.net_.png"></td>
-    <td><img height="40" alt="windows" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/windows11/windows11-original.svg"></td>
-    <td><img height="40" alt="ubuntu" src="https://user-images.githubusercontent.com/25181517/186884153-99edc188-e4aa-4c84-91b0-e2df260ebc33.png"></td>
   </tr>
 </table>
 
@@ -64,6 +61,7 @@
   <tr>
     <th colspan="6">🔨 Tools</th>
     <th colspan="4">💼 Messengers</th>
+    <th colspan="2">🖥️ OS</th>
 
 
   </tr>
@@ -78,9 +76,11 @@
     <td><img height="40" alt="confluence" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/confluence/confluence-original.svg"></td>
     <td><img height="40" alt="slack" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/slack/slack-original.svg"></td>
     <td><img height="40" alt="mattermost" src="https://cdn.icon-icons.com/icons2/2389/PNG/512/mattermost_logo_icon_145078.png"></td>
+    <td><img height="40" alt="windows" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/windows11/windows11-original.svg"></td>
+    <td><img height="40" alt="ubuntu" src="https://user-images.githubusercontent.com/25181517/186884153-99edc188-e4aa-4c84-91b0-e2df260ebc33.png"></td>
   </tr>
 
-</table>
+</table></div>
 
 <div align="center">
 
