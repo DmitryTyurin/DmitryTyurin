@@ -1,6 +1,6 @@
 <div align="center">
 
-<img height="230" src="https://leonardo.osnova.io/ad46ff5c-14f8-5dd0-86dc-a1ad7b3b4e46/-/preview/3000x/"></a>
+<img height="220" src="https://leonardo.osnova.io/ad46ff5c-14f8-5dd0-86dc-a1ad7b3b4e46/-/preview/3000x/"></a>
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%FFFFFF&lines=Всем+привет👋+My+Data+Engineering🔋)
 
