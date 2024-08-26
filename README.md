@@ -14,8 +14,10 @@
 
 
 
+---
 
-<div align="center">👨‍💻 My project 👨‍💻
+
+<div align="center">👨‍💻 My Data Project 👨‍💻
 
 </div>
 
@@ -30,13 +32,14 @@
 
 
 
+---
 
 </div>
 
 
 
 
-<br><br><br>
+<br>
 
 #### 🚩 I am a data engineering specialist and 📚 actively explore cutting-edge tools and methods for working with 🇧🇮🇬 🇩🇦🇹🇦. 
 #### 🎯 My goal is to use my expertise and knowledge to create solutions in this field. 
