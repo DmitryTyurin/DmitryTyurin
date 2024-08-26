@@ -12,7 +12,24 @@
 #### 🎯 Моя цель - использовать свой опыт и знания для создания решений в этой области. 
 #### 💾 Здесь будут представлены мои небольшие проекты по работе с данными. <br><br>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%FFFFFF&lines=📖+CLICK+MY+PROJECT+📖)](https://github.com/DmitryTyurin/data-engineering-public)
+
+<br>
+<h2 align="center">👨‍💻 My project 👨‍💻</h2>
+<div width="100%" align="center">
+
+
+
+  <b href="https://github.com/DmitryTyurin/data-engineering-public" title="Data Structures"><img align="center" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=DmitryTyurin&repo=data-engineering-public&theme=onedark&border_radius=10"></b>
+
+
+
+
+</div>
+
+
+
+
+<br><br><br>
 
 #### 🚩 I am a data engineering specialist and 📚 actively explore cutting-edge tools and methods for working with 🇧🇮🇬 🇩🇦🇹🇦. 
 #### 🎯 My goal is to use my expertise and knowledge to create solutions in this field. 
@@ -135,18 +152,3 @@
   <img src="https://komarev.com/ghpvc/?username=DmitryTyurin&style=for-the-badge&color=orange" alt=""/>
 </div>
 
-
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
-  />
-  <img
-    alt="github contribution grid snake animation"
-    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
-  />
-</picture>
