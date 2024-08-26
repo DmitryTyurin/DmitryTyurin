@@ -17,7 +17,7 @@
 ---
 
 
-<div align="center">👨‍💻 Мои data проекты 👨‍💻
+<div align="center">👨‍💻 Мой основной проект 👨‍💻
 
 </div>
 
