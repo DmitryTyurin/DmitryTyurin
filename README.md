@@ -23,7 +23,8 @@
 
 
 
-  <b href="https://github.com/DmitryTyurin/data-engineering-public" title="Data Structures"><img align="center" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=DmitryTyurin&repo=data-engineering-public&theme=vision-friendly-dark&border_radius=10"></b>
+
+<a href="https://github.com/DmitryTyurin/data-engineering-public" title="Data Structures"><img align="center" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=DmitryTyurin&repo=data-engineering-public&theme=vision-friendly-dark&border_radius=10"></a>
 
 
 
