@@ -15,8 +15,10 @@
 
 
 
+<div align="center">👨‍💻 My project 👨‍💻
 
-<h2 align="center">👨‍💻 My project 👨‍💻</h2>
+</div>
+
 
 
 <div width="100%" align="center">
