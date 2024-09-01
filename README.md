@@ -30,6 +30,8 @@
 
 <a href="https://github.com/DmitryTyurin/data-engineering-public" title="Data Structures"><img align="center" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=DmitryTyurin&repo=data-engineering-public&theme=vision-friendly-dark&border_radius=10"></a>
 
+👨‍💻 Мой проект по обучению 👨‍💻
+<a href="https://github.com/DmitryTyurin/stepik-education" title="Data Structures"><img align="center" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=DmitryTyurin&repo=stepik-education&theme=vision-friendly-dark&border_radius=10"></a>
 
 <h4 align="center">
   <a href="https://github.com/DmitryTyurin?tab=repositories" title="Show Repositories">🔎 Полный список проектов 🔍</a>
