@@ -72,7 +72,9 @@
     <td><img height="40" alt="mongoDB" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/mongodb/mongodb-original.svg"></td>
     <td><img height="40" alt="clickhouse" src="https://cdn.freelogovectors.net/wp-content/uploads/2022/03/clickhouse_logo_freelogovectors.net_.png"></td>
   </tr>
-</table>
+
+<br></table>
+
 
 <table>
   <tr>
@@ -139,8 +141,8 @@
 
 ---
 
-<img width="400" height="200" src="https://github-readme-stats.vercel.app/api?username=DmitryTyurin&show_icons=true&theme=vision-friendly-dark">
-<img width="439" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DmitryTyurin&size_weight=0.0005&count_weight=0.3&layout=compact&theme=vision-friendly-dark">
+<img width="230" height="200" src="https://github-readme-stats.vercel.app/api?username=DmitryTyurin&show_icons=true&theme=vision-friendly-dark">
+<img width="250" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DmitryTyurin&size_weight=0.0005&count_weight=0.3&layout=compact&theme=vision-friendly-dark">
 
 
 </div>
