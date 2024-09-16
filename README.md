@@ -142,7 +142,7 @@
 ---
 
 <img width="300" height="200" src="https://github-readme-stats.vercel.app/api?username=DmitryTyurin&show_icons=true&theme=vision-friendly-dark">
-<img width="315" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DmitryTyurin&size_weight=0.0005&count_weight=0.3&layout=compact&theme=vision-friendly-dark">
+<img width="320" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DmitryTyurin&size_weight=0.0005&count_weight=0.3&layout=compact&theme=vision-friendly-dark">
 
 
 </div>
