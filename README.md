@@ -1,13 +1,3 @@
-<div align="center">
-
-
-
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%FFFFFF&lines=Всем+привет👋)
-
-
-</div>
-
-
 #### 🚩 Я являюсь специалистом в области инженерии данных и 📚 активно изучаю передовые инструменты и методы для работы с большими данными 🇧🇮🇬 🇩🇦🇹🇦. 
 #### 🎯 Моя цель - использовать свой опыт и знания для создания решений в этой области. 
 #### 💾 Здесь будут представлены мои небольшие проекты по работе с данными. <br><br>
@@ -63,29 +53,7 @@
 
 
 
-<br>
-
-#### 🚩 I am a data engineering specialist and 📚 actively explore cutting-edge tools and methods for working with 🇧🇮🇬 🇩🇦🇹🇦. 
-#### 🎯 My goal is to use my expertise and knowledge to create solutions in this field. 
-#### 💾 Here will be presented my small projects on working with 🇧🇮🇬 🇩🇦🇹🇦. <br><br><br>
-
-
-
-<div align="center">
-
-[![TELEGA](https://img.icons8.com/?size=100&id=63306&format=png&color=000000)](https://t.me/DmitryTyurin)
-[![VK](https://img.icons8.com/?size=100&id=oa4chNZ4S5fa&format=png&color=000000)](https://vk.com/dmitrityurin)
-<br>
-<br>
-<br>
-
-
-
-
-</div>
-
-
-<table>
+<br><table>
 
   <tr>
     <th colspan="3">🧰 Version Control</th>
