@@ -36,7 +36,7 @@
 
 
 
-<a href="https://github.com/DmitryTyurin/stepik-education" title="Data Structures"><img align="center" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=DmitryTyurin&repo=stepik-education&theme=vision-friendly-dark&border_radius=10"></a>
+<a href="https://github.com/DmitryTyurin/courses" title="Data Structures"><img align="center" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=DmitryTyurin&repo=courses&theme=vision-friendly-dark&border_radius=10"></a>
 
 <br>
 
