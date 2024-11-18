@@ -6,7 +6,7 @@
 ---
 
 
-<div align="center">👨‍💻 Мой основной проект 👨‍💻
+<div align="center">👨‍💻 Проект DE 👨‍💻
 
 </div>
 
@@ -25,7 +25,7 @@
 
 </div>
 
-<div align="center">👨‍💻 Мой проект по обучению 👨‍💻
+<div align="center">👨‍💻 Проект по обучению 👨‍💻
 
 </div>
 
