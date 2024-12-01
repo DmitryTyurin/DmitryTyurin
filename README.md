@@ -44,12 +44,14 @@
 
   <tr>
     <th colspan="3">🐍 Python</th>
+    <th colspan="3">💡 PySpark</th>
 
   </tr>
   <tr>
     <td><img height="40" alt="python" src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png"></td>
     <td><img height="40" alt="numpy" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/numpy/numpy-original.svg"></td>
     <td><img height="55" alt="pandas" src="https://github.com/marwin1991/profile-technology-icons/assets/76012086/24b02d77-2f28-43c7-b5d6-e15e3395851b"></td>
+    <td><img height="55" alt="pyspark" src="https://user-images.githubusercontent.com/25181517/184357834-eba1eee1-6074-4b9c-8ed3-5373868096cc.png"></td>
   </tr>
 
 </table>
@@ -71,7 +73,7 @@
 
 <table>
   <tr>
-    <th colspan="7">🔨 Tools</th>
+    <th colspan="7">🔨 Software Packages</th>
   </tr>
   <tr>
     <td><img height="40" alt="pycharm" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/pycharm/pycharm-original.svg"></td>
