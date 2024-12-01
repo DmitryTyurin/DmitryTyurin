@@ -28,16 +28,18 @@
 
   <tr>
     <th colspan="3">🧰 Version Control</th>
+    <th colspan="2">🖥️ OS</th>
 
   </tr>
   <tr>
     <td><img height="40" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png"></td>
     <td><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/github/github-original.svg"></td>
     <td><img height="40" src="https://user-images.githubusercontent.com/25181517/192108376-c675d39b-90f6-4073-bde6-5a9291644657.png"></td>
+    <td><img height="40" alt="windows" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/windows11/windows11-original.svg"></td>
+    <td><img height="40" alt="ubuntu" src="https://user-images.githubusercontent.com/25181517/186884153-99edc188-e4aa-4c84-91b0-e2df260ebc33.png"></td>
   </tr>
 
 </table>
-
 <table>
 
   <tr>
@@ -86,14 +88,11 @@
 
 <table>
   <tr>
-    <th colspan="2">🖥️ OS</th>
-    <th colspan="4">💼 Messengers</th>
+    <th colspan="4">💼 Task Control and Messengers</th>
 
 
   </tr>
   <tr>
-    <td><img height="40" alt="windows" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/windows11/windows11-original.svg"></td>
-    <td><img height="40" alt="ubuntu" src="https://user-images.githubusercontent.com/25181517/186884153-99edc188-e4aa-4c84-91b0-e2df260ebc33.png"></td>
     <td><img height="40" alt="jira" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/jira/jira-original.svg"></td>
     <td><img height="40" alt="confluence" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/confluence/confluence-original.svg"></td>
     <td><img height="40" alt="slack" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/slack/slack-original.svg"></td>
