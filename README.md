@@ -102,7 +102,7 @@
 </table>
 
 
-<div align="center">
+
 
 ### GitHub Stats 🎢
 [![trophy](https://github-profile-trophy.vercel.app/?username=DmitryTyurin&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
@@ -111,7 +111,6 @@
 <img width="420" height="200" src="https://github-readme-stats.vercel.app/api?username=DmitryTyurin&show_icons=true&theme=vision-friendly-dark">
 <img width="380" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DmitryTyurin&size_weight=0.0005&count_weight=0.3&layout=compact&theme=vision-friendly-dark">
 
-</div>
 
 
 <div id="header" align="center">
