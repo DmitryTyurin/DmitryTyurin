@@ -7,17 +7,13 @@
 ---
 
 
-<div align="center">👨‍💻 DE 👨‍💻
 
-</div>
-
-<br>
 
 <div width="100%" align="center">
 
 <a href="https://github.com/DmitryTyurin/DataProjects" title="Data Structures"><img align="center" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=DmitryTyurin&repo=DataProjects&theme=vision-friendly-dark&border_radius=10"></a>
 
-<br>
+
 
 
 <h4 align="center">
