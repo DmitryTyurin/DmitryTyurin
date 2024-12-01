@@ -44,7 +44,7 @@
 
   <tr>
     <th colspan="3">🐍 Python</th>
-    <th colspan="3">💡 PySpark</th>
+    <th colspan="3"> 🔨 PySpark</th>
 
   </tr>
   <tr>
@@ -73,7 +73,7 @@
 
 <table>
   <tr>
-    <th colspan="7">🔨 Software Packages</th>
+    <th colspan="7">💡Software</th>
   </tr>
   <tr>
     <td><img height="40" alt="pycharm" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/pycharm/pycharm-original.svg"></td>
