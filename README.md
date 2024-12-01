@@ -88,7 +88,7 @@
 
 <table>
   <tr>
-    <th colspan="4">💼 Task Control and Messengers</th>
+    <th colspan="4">💼 Task Control & Messengers</th>
 
 
   </tr>
