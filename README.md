@@ -30,7 +30,7 @@
     <th colspan="1">🧰 Git</th>
     <th colspan="2">🖥️ OS</th>
     <th colspan="3">🐍 Python</th>
-    <th colspan="3"> 🔨 PySpark</th>
+    <th colspan="1"> 🔨 PySpark</th>
     <th colspan="3">💾 Database</th>
 
 
