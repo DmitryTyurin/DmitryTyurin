@@ -3,7 +3,6 @@
 📋 Python <br>
 📋 SQL (PostgreSQL, ClickHouse) <br>
 📋 Linux <br>
-📋 Git <br>
 📋 Docker <br>
 </div>
 
