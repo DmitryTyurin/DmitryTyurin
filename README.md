@@ -43,10 +43,10 @@
 
 <br>
 
-<h5 align="center">Languages</h5>
-<img height="40" src="https://skillicons.dev/icons?i=python,scala">
+<h4 align="center">Languages</h4>
+<img height="60" src="https://skillicons.dev/icons?i=python,scala">
 &nbsp
-<img height="40" alt="pyspark" src="https://user-images.githubusercontent.com/25181517/184357834-eba1eee1-6074-4b9c-8ed3-5373868096cc.png">
+<img height="60" alt="pyspark" src="https://user-images.githubusercontent.com/25181517/184357834-eba1eee1-6074-4b9c-8ed3-5373868096cc.png">
 <br>
 
 <h5 align="center">Libs</h5>
