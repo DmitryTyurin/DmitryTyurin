@@ -42,9 +42,14 @@
 <summary align="left"> <strong>🛠️ 🇲🇾 🇹🇴🇴🇱🇧🇴🇽</strong></summary>
 
 <br>
+
+<h5 align="center">Control Version</h5>
 <img src="https://skillicons.dev/icons?i=git,gitlab,github">
 <br>
 
+<h5 align="center">OS</h5>
+<img src="https://skillicons.dev/icons?i=windows,ubuntu,linux">
+<br>
 
 
 <table>
