@@ -44,35 +44,35 @@
 <br>
 
 <h4 align="center">Languages</h4>
-<img height="50" src="https://skillicons.dev/icons?i=python,scala">
+<img src="https://skillicons.dev/icons?i=python,scala">
 &nbsp
-<img height="50" alt="pyspark" src="https://user-images.githubusercontent.com/25181517/184357834-eba1eee1-6074-4b9c-8ed3-5373868096cc.png">
+<img height="60" alt="pyspark" src="https://user-images.githubusercontent.com/25181517/184357834-eba1eee1-6074-4b9c-8ed3-5373868096cc.png">
 <br>
 
 <h4 align="center">Libs</h4>
-<img height="50" alt="python" src="https://github.com/marwin1991/profile-technology-icons/assets/76012086/24b02d77-2f28-43c7-b5d6-e15e3395851b">
+<img height="40" alt="python" src="https://github.com/marwin1991/profile-technology-icons/assets/76012086/24b02d77-2f28-43c7-b5d6-e15e3395851b">
 &nbsp
-<img height="50" alt="numpy" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/numpy/numpy-original.svg">
+<img height="40" alt="numpy" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/numpy/numpy-original.svg">
 &nbsp
-<img height="50" src="https://skillicons.dev/icons?i=selenium">
+<img src="https://skillicons.dev/icons?i=selenium">
 <br>
 
 <h4 align="center">DB & Broker</h4>
-<img height="50" alt="clickhouse" src="https://cdn.freelogovectors.net/wp-content/uploads/2022/03/clickhouse_logo_freelogovectors.net_.png">
+<img height="47" alt="clickhouse" src="https://cdn.freelogovectors.net/wp-content/uploads/2022/03/clickhouse_logo_freelogovectors.net_.png">
 &nbsp
-<img height="50" src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb,kafka,rabbitmq">
+<img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb,kafka,rabbitmq">
 <br>
 
 <h4 align="center">Control Version</h4>
-<img height="50" src="https://skillicons.dev/icons?i=git,gitlab,github">
+<img src="https://skillicons.dev/icons?i=git,gitlab,github">
 <br>
 
 <h4 align="center">DevOps</h4>
-<img height="50" src="https://skillicons.dev/icons?i=docker,linux,bash,powershell">
+<img src="https://skillicons.dev/icons?i=docker,linux,bash,powershell">
 <br>
 
 <h4 align="center">BI</h4>
-<img height="50" alt="superset" src="https://static.tildacdn.com/tild3331-6439-4530-a166-396530636539/Superset_logo.png">
+<img height="40" alt="superset" src="https://static.tildacdn.com/tild3331-6439-4530-a166-396530636539/Superset_logo.png">
 <br>
 
 
