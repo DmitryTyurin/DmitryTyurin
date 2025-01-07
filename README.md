@@ -49,6 +49,13 @@
 <img height="60" alt="pyspark" src="https://user-images.githubusercontent.com/25181517/184357834-eba1eee1-6074-4b9c-8ed3-5373868096cc.png">
 <br>
 
+<h5 align="center">Libs</h5>
+<img height="40" alt="python" src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png">
+<img height="40" alt="numpy" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/numpy/numpy-original.svg">
+&nbsp
+<img height="40" src="https://skillicons.dev/icons?i=selenium">
+<br>
+
 <h5 align="center">DB & Broker</h5>
 <img height="47" alt="clickhouse" src="https://cdn.freelogovectors.net/wp-content/uploads/2022/03/clickhouse_logo_freelogovectors.net_.png">
 &nbsp
