@@ -71,15 +71,23 @@
 <img src="https://skillicons.dev/icons?i=docker,linux,bash,powershell">
 <br>
 
-<h4 align="center">TOOLS</h4>
+<h4 align="center">Tools</h4>
 <img src="https://skillicons.dev/icons?i=pycharm,idea">
 &nbsp
-<img height="47" alt="dbeaver" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/dbeaver/dbeaver-original.svg">
+<img height="50" alt="dbeaver" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/dbeaver/dbeaver-original.svg">
 &nbsp
 <img height="47" alt="airflow" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/apacheairflow/apacheairflow-original.svg">
 &nbsp
 <img height="47" alt="superset" src="https://static.tildacdn.com/tild3331-6439-4530-a166-396530636539/Superset_logo.png">
 <br>
+
+<h4 align="center">Task Control & Messengers</h4>
+<img height="40" alt="jira" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/jira/jira-original.svg">
+<img height="40" alt="confluence" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/confluence/confluence-original.svg">
+<img height="40" alt="slack" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/slack/slack-original.svg">
+<img height="40" alt="mattermost" src="https://cdn.icon-icons.com/icons2/2389/PNG/512/mattermost_logo_icon_145078.png">
+<br>
+
 
 
 <table>
