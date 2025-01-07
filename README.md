@@ -49,12 +49,12 @@
 <img height="60" alt="pyspark" src="https://user-images.githubusercontent.com/25181517/184357834-eba1eee1-6074-4b9c-8ed3-5373868096cc.png">
 <br>
 
-<h5 align="center">Libs</h5>
-<img height="40" alt="python" src="https://github.com/marwin1991/profile-technology-icons/assets/76012086/24b02d77-2f28-43c7-b5d6-e15e3395851b">
+<h4 align="center">Libs</h4>
+<img height="60" alt="python" src="https://github.com/marwin1991/profile-technology-icons/assets/76012086/24b02d77-2f28-43c7-b5d6-e15e3395851b">
 &nbsp
-<img height="40" alt="numpy" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/numpy/numpy-original.svg">
+<img height="60" alt="numpy" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/numpy/numpy-original.svg">
 &nbsp
-<img height="40" src="https://skillicons.dev/icons?i=selenium">
+<img height="60" src="https://skillicons.dev/icons?i=selenium">
 <br>
 
 <h5 align="center">DB & Broker</h5>
