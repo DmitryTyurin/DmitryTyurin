@@ -71,13 +71,13 @@
 <img src="https://skillicons.dev/icons?i=docker,linux,bash,powershell">
 <br>
 
-<h4 align="center">IDE & GUI</h4>
+<h4 align="center">TOOLS</h4>
 <img src="https://skillicons.dev/icons?i=pycharm,idea">
 &nbsp
-<img height="40" alt="dbeaver" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/dbeaver/dbeaver-original.svg">
-<br>
-
-<h4 align="center">BI</h4>
+<img height="40" alt="airflow" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/apacheairflow/apacheairflow-original.svg">
+&nbsp
+<img height="50" alt="dbeaver" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/dbeaver/dbeaver-original.svg">
+&nbsp
 <img height="40" alt="superset" src="https://static.tildacdn.com/tild3331-6439-4530-a166-396530636539/Superset_logo.png">
 <br>
 
@@ -111,7 +111,7 @@
   <tr>
     <td><img height="40" alt="pycharm" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/pycharm/pycharm-original.svg"></td>
     <td><img height="40" alt="pycharm" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/jupyter/jupyter-original.svg"></td>
-    <td><img height="40" alt="airflow" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/apacheairflow/apacheairflow-original.svg"></td>
+    <td></td>
     <td></td>
     <td><img height="40" alt="docker" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/docker/docker-plain.svg"></td>
     <td><img height="40" alt="superset" src="https://static.tildacdn.com/tild3331-6439-4530-a166-396530636539/Superset_logo.png"></td>
