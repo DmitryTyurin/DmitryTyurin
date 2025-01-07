@@ -84,9 +84,9 @@
 <h4 align="center">Task Control & Messengers</h4>
 <img height="50" alt="jira" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/jira/jira-original.svg">
 &nbsp
-<img height="40" alt="confluence" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/confluence/confluence-original.svg">
+<img height="45" alt="confluence" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/confluence/confluence-original.svg">
 &nbsp
-<img height="40" alt="slack" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/slack/slack-original.svg">
+<img height="45" alt="slack" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/slack/slack-original.svg">
 &nbsp
 <img height="50" alt="mattermost" src="https://cdn.icon-icons.com/icons2/2389/PNG/512/mattermost_logo_icon_145078.png">
 <br>
