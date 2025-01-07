@@ -1,6 +1,6 @@
 <div align='left' id="Resume">
 <details>
-<summary>💻<strong>About Me</strong></summary>
+<summary>💻<strong>🇦🇧🇴🇺🇹 🇲🇪</strong></summary>
 
 #### 💻Data Engineer
 
@@ -20,9 +20,9 @@
 
 ---
 
-<div align='left' id="Resume">
+<div align='left' id="data_project">
 <details>
-<summary>📓<strong>🇩🇦🇹🇦</strong></summary>
+<summary>📓<strong>🇩🇦🇹🇦 🇵🇷🇴🇯🇪🇨🇹</strong></summary>
 
 <br>
 
@@ -39,7 +39,7 @@
 
 <div aligin='left' id="My_Toolbox">
 <details>
-<summary align="left"> <strong>🛠️ My Toolbox</strong></summary>
+<summary align="left"> <strong>🛠️ 🇲🇾 🇹🇴🇴🇱🇧🇴🇴🇽</strong></summary>
 
 <br>
 
@@ -101,6 +101,7 @@
 <summary align="left"> <strong>🎢GitHub Stats</strong></summary>
 
 <br>
+
 <div id="header" align="center">
 
 <img width="800" height="200" src="https://streak-stats.demolab.com?user=DmitryTyurin&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
