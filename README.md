@@ -39,7 +39,7 @@
 
 <div aligin='left' id="My_Toolbox">
 <details>
-<summary align="left"> <strong>🛠️ 🇲🇾 🇹🇴🇴🇱🇧🇴🇴🇽</strong></summary>
+<summary align="left"> <strong>🛠️ 🇲🇾 🇹🇴🇴🇱🇧🇴🇽</strong></summary>
 
 <br>
 
@@ -98,7 +98,7 @@
 
 <div aligin='left' id="GitHub_Stats">
 <details>
-<summary align="left"> <strong>🎢GitHub Stats</strong></summary>
+<summary align="left"> <strong>🎢🇬🇮🇹🇭🇺🇧 🇸🇹🇦🇹🇸</strong></summary>
 
 <br>
 
