@@ -60,7 +60,7 @@
 <br>
 
 <h5 align="center">DevOps</h5>
-<img src="https://skillicons.dev/icons?i=linux,bash,powershell,docker">
+<img src="https://skillicons.dev/icons?i=docker,linux,bash,powershell">
 <br>
 
 
