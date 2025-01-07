@@ -24,6 +24,8 @@
 <details>
 <summary>📓<strong>🇩🇦🇹🇦</strong></summary>
 
+<br>
+
 <a href="https://github.com/DmitryTyurin/DataProjects" title="Data Structures"><img align="center" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=DmitryTyurin&repo=DataProjects&theme=vision-friendly-dark&border_radius=10"></a>
 
 <h4 align="center">
@@ -38,6 +40,9 @@
 <div aligin='left' id="My_Toolbox">
 <details>
 <summary align="left"> <strong>🛠️ My Toolbox</strong></summary>
+
+<br>
+
 <table>
 
   <tr>
