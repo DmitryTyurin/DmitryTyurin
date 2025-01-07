@@ -51,6 +51,7 @@
 
 <h5 align="center">Libs</h5>
 <img height="40" alt="python" src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png">
+&nbsp
 <img height="40" alt="numpy" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/numpy/numpy-original.svg">
 &nbsp
 <img height="40" src="https://skillicons.dev/icons?i=selenium">
