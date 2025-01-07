@@ -26,7 +26,11 @@
 </details>
 </div>
 
----
+hr {
+    border: none; /* Убираем стандартную рамку */
+    height: 4px; /* Устанавливаем толщину линии */
+    background-color: #ff0000; /* Устанавливаем цвет линии */
+}
 
 <div align='left' id="data_project">
 <details>
