@@ -39,11 +39,11 @@ ___
 <h4 align="center">
   <a href="https://github.com/DmitryTyurin?tab=repositories" title="Show Repositories">🔎 Полный список проектов 🔍</a>
 </h4>
-
+<div style="width:100%;height:4px;background-color:#FF0000"></div>
 </details>
 </div>
 
-<div style="width:100%;height:4px;background-color:#FF0000"></div>
+
 
 <div aligin='left' id="My_Toolbox">
 <details>
