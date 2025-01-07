@@ -46,7 +46,7 @@
 <h5 align="center">Languages</h5>
 <img src="https://skillicons.dev/icons?i=python,scala">
 &nbsp
-<img height="65" alt="pyspark" src="https://user-images.githubusercontent.com/25181517/184357834-eba1eee1-6074-4b9c-8ed3-5373868096cc.png">
+<img height="60" alt="pyspark" src="https://user-images.githubusercontent.com/25181517/184357834-eba1eee1-6074-4b9c-8ed3-5373868096cc.png">
 <br>
 
 <h5 align="center">Control Version</h5>
