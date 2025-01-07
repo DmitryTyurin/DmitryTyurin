@@ -89,7 +89,7 @@
 &nbsp
 <img height="40" alt="confluence" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/confluence/confluence-original.svg">
 &nbsp
-<img height="440" alt="slack" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/slack/slack-original.svg">
+<img height="40" alt="slack" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/slack/slack-original.svg">
 &nbsp
 <img height="40" alt="mattermost" src="https://cdn.icon-icons.com/icons2/2389/PNG/512/mattermost_logo_icon_145078.png">
 <br>
