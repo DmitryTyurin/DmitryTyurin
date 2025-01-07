@@ -49,10 +49,10 @@
 <img height="60" alt="pyspark" src="https://user-images.githubusercontent.com/25181517/184357834-eba1eee1-6074-4b9c-8ed3-5373868096cc.png">
 <br>
 
-<h5 align="center">Database</h5>
+<h5 align="center">DB & Broker</h5>
 <img height="47" alt="clickhouse" src="https://cdn.freelogovectors.net/wp-content/uploads/2022/03/clickhouse_logo_freelogovectors.net_.png">
 &nbsp
-<img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb">
+<img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb,kafka,rabbitmq">
 <br>
 
 <h5 align="center">Control Version</h5>
