@@ -44,7 +44,9 @@
 <br>
 
 <h5 align=" center">Control Version</h5>
-[![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skillicons.dev)
+<img src="https://skillicons.dev/icons?i=sqlite,postgres">
+
+
 
 <table>
   <tr>
