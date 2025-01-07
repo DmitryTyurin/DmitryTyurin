@@ -14,11 +14,12 @@
 
 #### 🎯 Использую свой опыт и знания для создания решений в области данных. 
 💾 Ниже представлен мои проект по работе с данными, а также прохождение практик курсов по Python, SQL и др.
-
+<br>
+<br>
 <a href='https://t.me/DmitryTyurin' target="_blank"><img alt="Static Badge" src="https://img.shields.io/badge/Telegram-white?style=flat&logo=telegram&logoColor=white&color=%233c9bd5"></a>
 <a href="mailto:dwtyurin@mail.com"><img alt="mail Badge" src="https://img.shields.io/badge/Mail.ru-white?style=flat&logoColor=white&logo=mail.ru&color=%233c9bd5"></a>
 <a href="mailto:dwtyurin@gmail.com"><img alt="gmail Badge" src="https://img.shields.io/badge/Gmail-white?style=flat&logoColor=white&logo=gmail&color=%233c9bd5"></a>
-
+<br>
 </details>
 </div>
 
