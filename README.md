@@ -42,7 +42,7 @@
 <summary align="left"> <strong>🛠️ 🇲🇾 🇹🇴🇴🇱🇧🇴🇽</strong></summary>
 
 <br>
-<img src="https://skillicons.dev/icons?i=git,gitlab,github&theme=dark&perline=15">
+<img src="https://skillicons.dev/icons?i=git,gitlab,github">
 <br>
 
 
