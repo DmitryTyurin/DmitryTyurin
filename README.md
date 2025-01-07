@@ -43,16 +43,16 @@
 
 <br>
 
-<table>
+<h5 align=" center">Control Version</h5>
+[![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skillicons.dev)
 
+<table>
   <tr>
     <th colspan="1">🧰 Git</th>
     <th colspan="2">🖥️ OS</th>
     <th colspan="3">🐍 Python</th>
     <th colspan="1"> 🔨 PySpark</th>
     <th colspan="3">💾 Database</th>
-
-
   </tr>
   <tr>
     <td><img height="40" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png"></td>
@@ -66,13 +66,11 @@
     <td><img height="40" alt="mongoDB" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/mongodb/mongodb-original.svg"></td>
     <td><img height="37" alt="clickhouse" src="https://cdn.freelogovectors.net/wp-content/uploads/2022/03/clickhouse_logo_freelogovectors.net_.png"></td>
   </tr>
-
 </table>
 
 <table>
   <tr>
     <th colspan="7">💡Software</th>
-    <th colspan="4">💼 Task Control & Messengers</th>
   </tr>
   <tr>
     <td><img height="40" alt="pycharm" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/pycharm/pycharm-original.svg"></td>
@@ -82,13 +80,19 @@
     <td><img height="40" alt="docker" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/docker/docker-plain.svg"></td>
     <td><img height="40" alt="superset" src="https://static.tildacdn.com/tild3331-6439-4530-a166-396530636539/Superset_logo.png"></td>
     <td><img height="40" alt="excel" src="https://cdn.icon-icons.com/icons2/2397/PNG/512/microsoft_office_excel_logo_icon_145720.png"></td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <th colspan="4">💼 Task Control & Messengers</th>
+  </tr>
+  <tr>
     <td><img height="40" alt="jira" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/jira/jira-original.svg"></td>
     <td><img height="40" alt="confluence" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/confluence/confluence-original.svg"></td>
     <td><img height="40" alt="slack" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/slack/slack-original.svg"></td>
     <td><img height="40" alt="mattermost" src="https://cdn.icon-icons.com/icons2/2389/PNG/512/mattermost_logo_icon_145078.png"></td>
-
   </tr>
-
 </table>
 
 </details>
