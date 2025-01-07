@@ -59,8 +59,8 @@
 <img src="https://skillicons.dev/icons?i=git,gitlab,github">
 <br>
 
-<h5 align="center">OS</h5>
-<img src="https://skillicons.dev/icons?i=windows,powershell,linux,bash">
+<h5 align="center">DevOps</h5>
+<img src="https://skillicons.dev/icons?i=linux,bash, powershell, docker">
 <br>
 
 
