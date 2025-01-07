@@ -48,7 +48,7 @@
 <br>
 
 <h5 align="center">OS</h5>
-<img src="https://skillicons.dev/icons?i=windows,linux">
+<img src="https://skillicons.dev/icons?i=windows,powershell,linux,bash">
 <br>
 
 
