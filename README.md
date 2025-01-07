@@ -99,6 +99,8 @@
 <div aligin='left' id="GitHub_Stats">
 <details>
 <summary align="left"> <strong>🎢GitHub Stats</strong></summary>
+
+<br>
 <div id="header" align="center">
 
 <img width="800" height="200" src="https://streak-stats.demolab.com?user=DmitryTyurin&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
