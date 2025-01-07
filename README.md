@@ -1,3 +1,9 @@
+<div align='left' id="Resume">
+<details>
+<summary>💻<strong>About Me</strong></summary>
+
+#### 💻Data Engineer
+
 #### 📚 Изучаю инструменты и методы для работы с данными:
 <div align="left">
 📋 Python <br>
@@ -8,8 +14,9 @@
 
 #### 🎯 Использую свой опыт и знания для создания решений в области данных. 
 💾 Ниже представлен мои проект по работе с данными, а также прохождение практик курсов по Python, SQL и др.
-
-
+    
+</details>
+</div>
 
 ---
 
@@ -31,6 +38,9 @@
 
 </div>
 
+<div aligin='left' id="My_Toolbox">
+<details>
+<summary align="left"> <strong>🛠️ My Toolbox</strong></summary>
 <table>
 
   <tr>
@@ -79,13 +89,14 @@
 
 </table>
 
-
-
-<div align="center">
-
-### GitHub Stats 🎢
-
+</details>
 </div>
+
+---
+
+<div aligin='left' id="GitHub_Stats">
+<details>
+<summary align="left"> <strong>🎢GitHub Stats</strong></summary>
 
 <div id="header" align="center">
 
@@ -100,4 +111,5 @@
 <div id="header" align="center">
   <img src="https://komarev.com/ghpvc/?username=DmitryTyurin&style=for-the-badge&color=orange" alt=""/>
 </div>
-
+</details>
+</div>
