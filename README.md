@@ -63,6 +63,10 @@
 <img src="https://skillicons.dev/icons?i=docker,linux,bash,powershell">
 <br>
 
+<h5 align="center">BI</h5>
+<<img height="40" alt="superset" src="https://static.tildacdn.com/tild3331-6439-4530-a166-396530636539/Superset_logo.png">>
+<br>
+
 
 <table>
   <tr>
