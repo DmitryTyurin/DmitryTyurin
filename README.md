@@ -43,8 +43,9 @@
 
 <br>
 
-<h5 align=" center">Control Version</h5>
-<img src="https://skillicons.dev/icons?i=sqlite,postgres">
+<h5 align=" center">🧰 Git</h5>
+<img src="https://skillicons.dev/icons?i=git,gitlab,github&theme=dark&perline=15">
+<br>
 
 
 
