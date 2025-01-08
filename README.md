@@ -161,13 +161,12 @@
 <h4 align="center">Other</h4>
 <br>
 <img href="https://stepik.org/cert/2715893" width="412" height="300" src="https://stepik.org/certificate/635b5c654632b2aa04f25a3f5c77a9c18fed688f.png?resolution=low">
-<img href="https://stepik.org/cert/2677472" width="412" height="300" src="https://stepik.org/certificate/65685431d22d94766beb89027b501c446621bb39.png?resolution=low">
 <br>
 <img href="https://stepik.org/cert/2660462" width="412" height="300" src="https://stepik.org/certificate/346e2ffeaeec18f0ef0f78b5a25c72efbb978219.png?resolution=low">
-<img href="" width="412" height="300" src="">
+<img href="https://stepik.org/cert/2677472" width="412" height="300" src="https://stepik.org/certificate/65685431d22d94766beb89027b501c446621bb39.png?resolution=low">
 <br>
-<img href="" width="412" height="300" src="">
-<img href="" width="412" height="300" src="">
+<img href="https://stepik.org/cert/1353568" width="412" height="300" src="https://stepik.org/certificate/8c862c9a2821f30d12748d8009ecbdd8301fa8d1.png?resolution=low">
+<img href="https://stepik.org/cert/1378253" width="412" height="300" src="https://stepik.org/certificate/ee0de00109c8f95ab02cff5f986884731def42c3.png?resolution=low">
 
 <br>
 
