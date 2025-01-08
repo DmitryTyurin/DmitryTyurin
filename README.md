@@ -144,22 +144,17 @@
 <img href="https://stepik.org/cert/1891610" width="412" height="300" src="https://stepik.org/certificate/eb8191e7d974a02e1b1c4f2fe24f6118adc506c1.png?resolution=low">
 <img href="https://stepik.org/cert/1877540" width="412" height="300" src="https://stepik.org/certificate/8bb8c29536bd67741229998a1f276de376b60d7e.png?resolution=low">
 <br>
-<img href="https://stepik.org/cert/2677472" width="412" height="300" src="https://stepik.org/certificate/65685431d22d94766beb89027b501c446621bb39.png?resolution=low">
-<img href="https://stepik.org/cert/2660462" width="412" height="300" src="https://stepik.org/certificate/346e2ffeaeec18f0ef0f78b5a25c72efbb978219.png?resolution=low">
-
 
 <h4 align="center">SQL & DB</h4>
 <br>
-<img href="" width="412" height="300" src="">
-<img href="" width="412" height="300" src="">
-
+<img href="https://stepik.org/cert/2642561" width="412" height="300" src="https://stepik.org/certificate/39bc859fb8ad66f8252e8f02f8a64e4c5342a336.png?resolution=low">
+<img href="https://stepik.org/cert/2605343" width="412" height="300" src="https://stepik.org/certificate/385ecd516517f744cf23e8696d2530553bc35540.png?resolution=low">
 <br>
-<img href="" width="412" height="300" src="">
-<img href="" width="412" height="300" src="">
-
+<img href="https://stepik.org/cert/2547337" width="412" height="300" src="https://stepik.org/certificate/2c3630ab2efc68d9859911331785f6fdfc88d7e7.png?resolution=low">
+<img href="https://stepik.org/cert/1557663" width="412" height="300" src="https://stepik.org/certificate/9ee1cc30fc1b650704c72aac4686e3688d0e1da5.png?resolution=low">
 <br>
-<img href="" width="412" height="300" src="">
-<img href="" width="412" height="300" src="">
+<img href="https://stepik.org/cert/1559361" width="412" height="300" src="https://stepik.org/certificate/00010502ebb7057ed591bc33c0f860b8366c06d2.png?resolution=low">
+<img href="https://stepik.org/cert/1619845" width="412" height="300" src="https://stepik.org/certificate/a219003451aa147219bc942b94fc8cd88685906a.png?resolution=low">
 
 
 <br>
@@ -170,6 +165,8 @@
 <img href="" width="412" height="300" src="">
 <img href="" width="412" height="300" src="">
 <img href="https://stepik.org/cert/2715893" width="412" height="300" src="https://stepik.org/certificate/635b5c654632b2aa04f25a3f5c77a9c18fed688f.png?resolution=low">
+<img href="https://stepik.org/cert/2677472" width="412" height="300" src="https://stepik.org/certificate/65685431d22d94766beb89027b501c446621bb39.png?resolution=low">
+<img href="https://stepik.org/cert/2660462" width="412" height="300" src="https://stepik.org/certificate/346e2ffeaeec18f0ef0f78b5a25c72efbb978219.png?resolution=low">
 
 <br>
 
