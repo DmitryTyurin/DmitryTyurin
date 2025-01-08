@@ -136,10 +136,10 @@
 <img href="https://stepik.org/cert/2683081" width="412" height="300" src="https://stepik.org/certificate/85b711c4906768cb1eb39ac71946a406879da2dd.png?resolution=low">
 <img href="https://stepik.org/cert/2615644" width="412" height="300" src="https://stepik.org/certificate/a9f054e27ecd0e3d23a0ae6f383955bafca295cc.png?resolution=low">
 <br>
-<img href="https://stepik.org/cert/1743661" width="412" height="300" src="https://stepik.org/certificate/ace52d7ed749002f6df2f1a6c2765972615614b4.png?resolution=low">
+<img href="https://stepik.org/cert/2081253" width="412" height="300" src="https://stepik.org/certificate/32c97e6b7e9a06d62418c17f4609e22c6b081dbb.png?resolution=low">
 <img href="https://stepik.org/cert/2579919" width="412" height="300" src="https://stepik.org/certificate/ce1886884ce26d74e781c15596caff788fa7df32.png?resolution=low">
 <br>
-<img href="https://stepik.org/cert/2081253" width="412" height="300" src="https://stepik.org/certificate/32c97e6b7e9a06d62418c17f4609e22c6b081dbb.png?resolution=low">
+<img href="https://stepik.org/cert/1743661" width="412" height="300" src="https://stepik.org/certificate/ace52d7ed749002f6df2f1a6c2765972615614b4.png?resolution=low">
 <img href="https://stepik.org/cert/1917784" width="412" height="300" src="https://stepik.org/certificate/e9c1bccad3a370c5228fe24f808fed69d2d4bc40.png?resolution=low">
 <br>
 <img href="https://stepik.org/cert/1891610" width="412" height="300" src="https://stepik.org/certificate/eb8191e7d974a02e1b1c4f2fe24f6118adc506c1.png?resolution=low">
@@ -158,16 +158,16 @@
 <img href="https://stepik.org/cert/1619845" width="412" height="300" src="https://stepik.org/certificate/a219003451aa147219bc942b94fc8cd88685906a.png?resolution=low">
 
 
+<h4 align="center">Other</h4>
 <br>
-<img href="" width="412" height="300" src="">
-<img href="" width="412" height="300" src="">
-
-<br>
-<img href="" width="412" height="300" src="">
-<img href="" width="412" height="300" src="">
 <img href="https://stepik.org/cert/2715893" width="412" height="300" src="https://stepik.org/certificate/635b5c654632b2aa04f25a3f5c77a9c18fed688f.png?resolution=low">
 <img href="https://stepik.org/cert/2677472" width="412" height="300" src="https://stepik.org/certificate/65685431d22d94766beb89027b501c446621bb39.png?resolution=low">
+<br>
 <img href="https://stepik.org/cert/2660462" width="412" height="300" src="https://stepik.org/certificate/346e2ffeaeec18f0ef0f78b5a25c72efbb978219.png?resolution=low">
+<img href="" width="412" height="300" src="">
+<br>
+<img href="" width="412" height="300" src="">
+<img href="" width="412" height="300" src="">
 
 <br>
 
