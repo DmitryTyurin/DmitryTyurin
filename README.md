@@ -134,8 +134,9 @@
 <h4 align="center">Python</h4>
 <br>
 <img href="https://stepik.org/cert/2683081" width="412" height="300" src="https://stepik.org/certificate/85b711c4906768cb1eb39ac71946a406879da2dd.png?resolution=low">
-<br>
 <img href="https://stepik.org/cert/2615644" width="412" height="300" src="https://stepik.org/certificate/a9f054e27ecd0e3d23a0ae6f383955bafca295cc.png?resolution=low">
+<br>
+<img href="https://stepik.org/cert/1743661" width="412" height="300" src="https://stepik.org/certificate/ace52d7ed749002f6df2f1a6c2765972615614b4.png?resolution=low">
 <img href="https://stepik.org/cert/2579919" width="412" height="300" src="https://stepik.org/certificate/ce1886884ce26d74e781c15596caff788fa7df32.png?resolution=low">
 <br>
 <img href="https://stepik.org/cert/2081253" width="412" height="300" src="https://stepik.org/certificate/32c97e6b7e9a06d62418c17f4609e22c6b081dbb.png?resolution=low">
