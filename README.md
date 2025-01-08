@@ -125,3 +125,14 @@
 </div>
 
 ---
+
+<div aligin='left' id="certificates">
+<details>
+<summary align="left"> <strong>📜🇨🇪🇷🇹🇮🇫🇮🇨🇦🇹🇪🇸</strong></summary>
+
+<img href="https://stepik.org/cert/2715893" width="300" height="200" src="https://stepik.org/certificate/635b5c654632b2aa04f25a3f5c77a9c18fed688f.png?resolution=low">
+
+</details>
+</div>
+
+---
