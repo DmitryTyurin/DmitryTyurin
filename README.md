@@ -131,7 +131,7 @@
 <summary align="left"> <strong>📜🇨🇪🇷🇹🇮🇫🇮🇨🇦🇹🇪🇸</strong></summary>
 
 <img href="https://stepik.org/cert/2715893" width="500" height="350" src="https://stepik.org/certificate/635b5c654632b2aa04f25a3f5c77a9c18fed688f.png?resolution=low">
-
+<img href="https://stepik.org/cert/2683081" width="500" height="350" src="https://stepik.org/certificate/85b711c4906768cb1eb39ac71946a406879da2dd.png?resolution=low">
 </details>
 </div>
 
