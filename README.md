@@ -68,6 +68,8 @@
 <h4 align="center">DB & Broker</h4>
 <img height="47" alt="clickhouse" src="https://cdn.freelogovectors.net/wp-content/uploads/2022/03/clickhouse_logo_freelogovectors.net_.png">
 &nbsp
+<img height="47" alt="gp" src="https://www.vectorlogo.zone/logos/greenplum/greenplum-icon.svg">
+&nbsp
 <img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb,kafka,rabbitmq">
 <br>
 
