@@ -132,8 +132,9 @@
 <details>
 <summary align="left"> <strong>📜🇨🇪🇷🇹🇮🇫🇮🇨🇦🇹🇪🇸</strong></summary>
 
-
-<h4 align="center">Python</h4>
+<div aligin='left' id="Python">
+<details>
+<summary align="center"> <strong>Python</strong></summary>
 <br>
 <img href="https://stepik.org/cert/2683081" width="412" height="300" src="https://stepik.org/certificate/85b711c4906768cb1eb39ac71946a406879da2dd.png?resolution=low">
 <img href="https://stepik.org/cert/2615644" width="412" height="300" src="https://stepik.org/certificate/a9f054e27ecd0e3d23a0ae6f383955bafca295cc.png?resolution=low">
@@ -147,6 +148,8 @@
 <img href="https://stepik.org/cert/1891610" width="412" height="300" src="https://stepik.org/certificate/eb8191e7d974a02e1b1c4f2fe24f6118adc506c1.png?resolution=low">
 <img href="https://stepik.org/cert/1877540" width="412" height="300" src="https://stepik.org/certificate/8bb8c29536bd67741229998a1f276de376b60d7e.png?resolution=low">
 <br>
+</details>
+</div>
 
 <h4 align="center">SQL & DB</h4>
 <br>
