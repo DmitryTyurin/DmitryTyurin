@@ -132,9 +132,10 @@
 <details>
 <summary align="left"> <strong>📜🇨🇪🇷🇹🇮🇫🇮🇨🇦🇹🇪🇸</strong></summary>
 
+<br>
 <div aligin='left' id="Python">
 <details>
-<summary align="center"> <strong>Python</strong></summary>
+<summary align="left"> <strong>Python</strong></summary>
 <br>
 <img href="https://stepik.org/cert/2683081" width="412" height="300" src="https://stepik.org/certificate/85b711c4906768cb1eb39ac71946a406879da2dd.png?resolution=low">
 <img href="https://stepik.org/cert/2615644" width="412" height="300" src="https://stepik.org/certificate/a9f054e27ecd0e3d23a0ae6f383955bafca295cc.png?resolution=low">
@@ -151,9 +152,10 @@
 </details>
 </div>
 
+<br>
 <div aligin='left' id="SQL">
 <details>
-<summary align="center"> <strong>SQL & DB</strong></summary>
+<summary align="left"> <strong>SQL & DB</strong></summary>
 <br>
 <img href="https://stepik.org/cert/2642561" width="412" height="300" src="https://stepik.org/certificate/39bc859fb8ad66f8252e8f02f8a64e4c5342a336.png?resolution=low">
 <img href="https://stepik.org/cert/2605343" width="412" height="300" src="https://stepik.org/certificate/385ecd516517f744cf23e8696d2530553bc35540.png?resolution=low">
@@ -167,9 +169,10 @@
 </details>
 </div>
 
+<br>
 <div aligin='left' id="Other">
 <details>
-<summary align="center"> <strong>Other</strong></summary>
+<summary align="left"> <strong>Other</strong></summary>
 <br>
 <br>
 <img href="https://stepik.org/cert/2715893" width="412" height="300" src="https://stepik.org/certificate/635b5c654632b2aa04f25a3f5c77a9c18fed688f.png?resolution=low">
