@@ -151,7 +151,9 @@
 </details>
 </div>
 
-<h4 align="center">SQL & DB</h4>
+<div aligin='left' id="SQL">
+<details>
+<summary align="center"> <strong>SQL & DB</strong></summary>
 <br>
 <img href="https://stepik.org/cert/2642561" width="412" height="300" src="https://stepik.org/certificate/39bc859fb8ad66f8252e8f02f8a64e4c5342a336.png?resolution=low">
 <img href="https://stepik.org/cert/2605343" width="412" height="300" src="https://stepik.org/certificate/385ecd516517f744cf23e8696d2530553bc35540.png?resolution=low">
@@ -161,9 +163,14 @@
 <br>
 <img href="https://stepik.org/cert/1559361" width="412" height="300" src="https://stepik.org/certificate/00010502ebb7057ed591bc33c0f860b8366c06d2.png?resolution=low">
 <img href="https://stepik.org/cert/1619845" width="412" height="300" src="https://stepik.org/certificate/a219003451aa147219bc942b94fc8cd88685906a.png?resolution=low">
+<br>
+</details>
+</div>
 
-
-<h4 align="center">Other</h4>
+<div aligin='left' id="Other">
+<details>
+<summary align="center"> <strong>Other</strong></summary>
+<br>
 <br>
 <img href="https://stepik.org/cert/2715893" width="412" height="300" src="https://stepik.org/certificate/635b5c654632b2aa04f25a3f5c77a9c18fed688f.png?resolution=low">
 <br>
@@ -172,6 +179,9 @@
 <br>
 <img href="https://stepik.org/cert/1353568" width="412" height="300" src="https://stepik.org/certificate/8c862c9a2821f30d12748d8009ecbdd8301fa8d1.png?resolution=low">
 <img href="https://stepik.org/cert/1378253" width="412" height="300" src="https://stepik.org/certificate/ee0de00109c8f95ab02cff5f986884731def42c3.png?resolution=low">
+<br>
+</details>
+</div>
 
 <br>
 
