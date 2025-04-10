@@ -161,6 +161,12 @@
 <br>
 
 <br>
+<img width="420" height="300" src="сertificates_png/Асинхронный_Python.png" alt="Асинхронный_Python">
+<img width="420" height="300" src="сertificates_png/Быстрый_старт_в_FastAPI_Python.png" alt="Быстрый_старт_в_FastAPI_Python">
+<br>
+
+
+<br>
 <img width="420" height="300" src="сertificates_png/Функциональное_программирование_на_Python.png" alt="Функциональное_программирование_на_Python">
 <img width="420" height="300" src="сertificates_png/Регулярные_выражения_в_Python.png" alt="Регулярные_выражения_в_Python">
 <br>
@@ -170,10 +176,7 @@
 <img width="420" height="300" src="сertificates_png/Selenium_Python.png" alt="Selenium_Python">
 <br>
 
-<br>
-<img width="420" height="300" src="сertificates_png/Асинхронный_Python.png" alt="Асинхронный_Python">
-<img width="420" height="300" src="сertificates_png/Быстрый_старт_в_FastAPI_Python.png" alt="Быстрый_старт_в_FastAPI_Python">
-<br>
+
 
 <br>
 <img width="420" height="300" src="сertificates_png/Добрый__добрый_Python_с_Сергеем_Балакиревым.png" alt="Добрый__добрый_Python_с_Сергеем_Балакиревым">
