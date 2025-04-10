@@ -165,9 +165,14 @@
 <summary align="left"> <strong>SQL & DB</strong></summary>
 <br>
 
-[![Превью ClickHouse]](certificates/ClickHouse%20для%20аналитика.pdf)
-
-<iframe src="ertificates/ClickHouse%20для%20аналитика.pdf" width="412" height="300"></iframe>
+<a href="certificates/ClickHouse%20для%20аналитика.pdf" target="_blank">
+  <img 
+    src="certificates/clickhouse_preview.jpg" 
+    alt="ClickHouse для аналитика" 
+    width="412" 
+    height="300"
+  />
+</a>
 
 <br>
 </details>
