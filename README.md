@@ -155,6 +155,7 @@
 <summary align="left"> <strong>Python</strong></summary>
 <br>
 
+
 <br>
 </details>
 </div>
@@ -165,14 +166,19 @@
 <summary align="left"> <strong>SQL & DB</strong></summary>
 <br>
 
-<a href="certificates/ClickHouse%20для%20аналитика.pdf" target="_blank">
-  <img 
-    src="certificates/clickhouse_preview.jpg" 
-    alt="ClickHouse для аналитика" 
-    width="412" 
-    height="300"
-  />
-</a>
+<br>
+<img width="420" height="300" src="сertificates_png/ClickHouse_для_аналитика.png" alt="ClickHouse_для_аналитика">
+<img width="420" height="300" src="сertificates_png/Введение_в_базы_данных.png" alt="Введение_в_базы_данных">
+<br>
+
+<br>
+<img width="420" height="300" src="сertificates_png/SQL_практикум__SELECT_запросы_от_А_до_Я.png" alt="SQL_практикум__SELECT_запросы_от_А_до_Я">
+<img width="420" height="300" src="сertificates_png/SQL_практикум__Продвинутый_уровень.png" alt="SQL_практикум__Продвинутый_уровень">
+<br>
+
+<br>
+<img width="420" height="300" src="сertificates_png/Интерактивный_тренажер_по_SQL.png" alt="Интерактивный_тренажер_по_SQL">
+<br>
 
 <br>
 </details>
