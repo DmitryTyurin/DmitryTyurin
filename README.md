@@ -1,6 +1,6 @@
 <div align='left' id="Resume">
 <details>
-<summary>💻<strong>🇦🇧🇴🇺🇹 🇲🇪</strong></summary>
+<summary>🪪<strong>🇦🇧🇴🇺🇹 🇲🇪</strong></summary>
 
 #### 💻Data Engineer
 
