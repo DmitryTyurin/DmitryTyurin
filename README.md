@@ -168,7 +168,7 @@
 
 <br>
 <img width="420" height="300" src="сertificates_png/ClickHouse_для_аналитика.png" alt="ClickHouse_для_аналитика">
-<img width="420" height="300" src="сertificates_png/Введение_в_базы_данных.png" alt="Введение_в_базы_данных">
+
 <br>
 
 <br>
@@ -178,6 +178,7 @@
 
 <br>
 <img width="420" height="300" src="сertificates_png/Интерактивный_тренажер_по_SQL.png" alt="Интерактивный_тренажер_по_SQL">
+<img width="420" height="300" src="сertificates_png/Введение_в_базы_данных.png" alt="Введение_в_базы_данных">
 <br>
 
 <br>
