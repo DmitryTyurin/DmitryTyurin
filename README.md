@@ -152,9 +152,38 @@
 <br>
 <div aligin='left' id="Python">
 <details>
-<summary align="left"> <strong>Python</strong></summary>
+<summary align="left"> <strong>Python 🐍</strong></summary>
 <br>
 
+<br>
+<img width="420" height="300" src="сertificates_png/Функциональное_программирование_на_Python.png" alt="Функциональное_программирование_на_Python">
+<img width="420" height="300" src="сertificates_png/Регулярные_выражения_в_Python.png" alt="Регулярные_выражения_в_Python">
+<br>
+
+<br>
+<img width="420" height="300" src="сertificates_png/Python_основы_и_применение.png" alt="Python_основы_и_применение">
+<img width="420" height="300" src="сertificates_png/Selenium_Python.png" alt="Selenium_Python">
+<br>
+
+<br>
+<img width="420" height="300" src="сertificates_png/Асинхронный_Python.png" alt="Асинхронный_Python">
+<img width="420" height="300" src="сertificates_png/Быстрый_старт_в_FastAPI_Python.png" alt="Быстрый_старт_в_FastAPI_Python">
+<br>
+
+<br>
+<img width="420" height="300" src="сertificates_png/Добрый__добрый_Python_с_Сергеем_Балакиревым.png" alt="Добрый__добрый_Python_с_Сергеем_Балакиревым">
+<img width="420" height="300" src="сertificates_png/Задачи_на_Python.png" alt="Задачи_на_Python">
+<br>
+
+<br>
+<img width="420" height="300" src="сertificates_png/Осознанный_Python___ООП.png" alt="Осознанный_Python___ООП">
+<img width="420" height="300" src="сertificates_png/Программирование_на_Python.png" alt="Программирование_на_Python">
+<br>
+
+<br>
+<img width="420" height="300" src="сertificates_png/Поколение_Python_курс_для_начинающих.png" alt="Поколение_Python_курс_для_начинающих">
+<img width="420" height="300" src="сertificates_png/Поколение_Python_курс_для_продвинутых.png" alt="Поколение_Python_курс_для_продвинутых">
+<br>
 
 <br>
 </details>
@@ -163,7 +192,7 @@
 <br>
 <div aligin='left' id="SQL">
 <details>
-<summary align="left"> <strong>SQL & DB</strong></summary>
+<summary align="left"> <strong>SQL & DB 📂</strong></summary>
 <br>
 
 <br>
@@ -188,8 +217,34 @@
 <br>
 <div aligin='left' id="Other">
 <details>
-<summary align="left"> <strong>Other</strong></summary>
+<summary align="left"> <strong>Other 📝</strong></summary>
 <br>
+
+<br>
+<img width="420" height="300" src="сertificates_png/Data_Engineer_с_нуля_до_junior.png" alt="Data_Engineer_с_нуля_до_junior">
+
+<br>
+
+<br>
+<img width="420" height="300" src="сertificates_png/LPI_Linux_Essentials_010_160_Certification_Exam.png" alt="LPI_Linux_Essentials_010_160_Certification_Exam">
+<img width="420" height="300" src="сertificates_png/Русский_сертификационный_экзамен_LPI_Linux.png" alt="Русский_сертификационный_экзамен_LPI_Linux">
+<br>
+
+<br>
+<img width="420" height="300" src="сertificates_png/Терминал_Linux__Основы_работы_в_командной.png" alt="Терминал_Linux__Основы_работы_в_командной">
+<img width="420" height="300" src="сertificates_png/Программа_Linux_с_нуля_до_сертификата.png" alt="Программа_Linux_с_нуля_до_сертификата">
+<br>
+
+<br>
+<img width="420" height="300" src="сertificates_png/Основы_статистики.png" alt="Основы_статистики">
+<img width="420" height="300" src="сertificates_png/Протокол_HTTP_простыми_словами.png" alt="Протокол_HTTP_простыми_словами">
+<br>
+
+<br>
+<img width="420" height="300" src="сertificates_png/Информационные_технологии__Excel.png" alt="Информационные_технологии__Excel">
+<img width="420" height="300" src="сertificates_png/Jira_ведение_задач_на_электронных_досках.png" alt="Jira_ведение_задач_на_электронных_досках">
+<br>
+
 <br>
 
 </details>
