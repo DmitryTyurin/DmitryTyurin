@@ -1,6 +1,6 @@
 <div align='left' id="Resume">
 <details>
-<summary>🪪<strong>🇦🇧🇴🇺🇹 🇲🇪</strong></summary>
+<summary>🪪<strong>About Me</strong></summary>
 
 #### 💻Data Engineer
 
@@ -30,7 +30,7 @@
 
 <div align='left' id="data_project">
 <details>
-<summary>📓<strong>🇩🇦🇹🇦 🇵🇷🇴🇯🇪🇨🇹</strong></summary>
+<summary>📓<strong>Data Project</strong></summary>
 
 <br>
 <a href="https://github.com/DmitryTyurin/DataProjects" title="Data Structures"><img align="center" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=DmitryTyurin&repo=DataProjects&theme=vision-friendly-dark&border_radius=10"></a>
@@ -46,7 +46,7 @@
 ---
 <div align='left' id="data_project">
 <details>
-<summary>🖥️<strong>🇱🇴🇨🇦🇱 🇩🇪🇻🇪🇱🇴🇵🇲🇪🇳🇹</strong></summary>
+<summary>🖥️<strong>Local Development</strong></summary>
 <br>
 <a href="https://github.com/DmitryTyurin/services" title="Data Structures"><img align="center" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=DmitryTyurin&repo=services&theme=vision-friendly-dark&border_radius=10"></a>
 
@@ -63,7 +63,7 @@
 
 <div aligin='left' id="My_Toolbox">
 <details>
-<summary align="left"> <strong>🛠️ 🇲🇾 🇹🇴🇴🇱🇧🇴🇽</strong></summary>
+<summary align="left"> <strong>🛠️ My Toolbox</strong></summary>
 
 <br>
 
@@ -122,7 +122,7 @@
 
 <div aligin='left' id="GitHub_Stats">
 <details>
-<summary align="left"> <strong>🎢🇬🇮🇹🇭🇺🇧 🇸🇹🇦🇹🇸</strong></summary>
+<summary align="left"> <strong>🎢GitHub Stats</strong></summary>
 
 <br>
 
@@ -151,7 +151,7 @@
 
 <div aligin='left' id="certificates">
 <details>
-<summary align="left"> <strong>📜🇨🇪🇷🇹🇮🇫🇮🇨🇦🇹🇪🇸</strong></summary>
+<summary align="left"> <strong>📜Certificates</strong></summary>
 
 <br>
 <br>
