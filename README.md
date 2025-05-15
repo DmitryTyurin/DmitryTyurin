@@ -161,6 +161,11 @@
 <br>
 
 <br>
+<img width="420" height="300" src="сertificates_png/Многопоточный_Python.png" alt="Многопоточный_Python">
+
+<br>
+
+<br>
 <img width="420" height="300" src="сertificates_png/Асинхронный_Python.png" alt="Асинхронный_Python">
 <img width="420" height="300" src="сertificates_png/Быстрый_старт_в_FastAPI_Python.png" alt="Быстрый_старт_в_FastAPI_Python">
 <br>
