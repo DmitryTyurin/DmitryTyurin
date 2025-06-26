@@ -162,7 +162,7 @@
 
 <br>
 <img width="420" height="300" src="сertificates_png/Многопоточный_Python.png" alt="Многопоточный_Python">
-
+<img width="420" height="300" src="сertificates_png/WEB_Парсинг_на_Python.png" alt="WEB_Парсинг_на_Python">
 <br>
 
 <br>
